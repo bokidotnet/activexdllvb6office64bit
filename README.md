@@ -3,7 +3,7 @@ Pomoću ove ActiveX Exe biblioteke se može izvršiti "ubacivanje" i korišćenj
 
 Potrebno je ovaj ActiveX Exe dodati kao referencu u VBA projekat kao i svaki drugi ActiveX Dll kako bi se isti koristio pored ActiveX dll koji se koristi u VBA projektu.
 
-U nastavku je primer za ActiveX Dll MUPLKLib.
+U prilogu je primer za ActiveX Dll MUPLKLib.
 
 Potrebno je registrovati MUPLKLib.dll sa regsvr32 odnosno kako je opisano u procitajme.txt.
 
